@@ -27,11 +27,11 @@ kramdown:
 # Site owner
 owner:
   name: Anita.lt
-  avatar: 
+  avatar: bio-photo.jpg
   bio: 
   disqus-shortname: 
   twitter: 
-  facebook: 
+  facebook: Anita.Lietuva
   google:
     plus: 
     analytics: UA-27967891-1
@@ -39,7 +39,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: dainiuxt
+  github: 
   instagram: 
 
 
