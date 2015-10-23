@@ -1,13 +1,8 @@
 # Site navigation links
 
-- title: About
+- title: Kontaktai
   url: /about/
 
-- title: Sample Posts
+- title: Naudinga informacija
   url: /posts/
 
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Made Mistakes
-  url: http://mademistakes.com

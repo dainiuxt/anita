@@ -23,7 +23,7 @@
     {% endif %}
   alt="{{ page.title }} feature image">
   {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+    <!--span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span-->
   {% endif %}
   </div><!-- /.image-wrap -->
 {% endif %}
@@ -45,7 +45,10 @@
     </article>
     {% endfor %} -->
 
-<div> <script type='text/javascript' src='https://app.ecwid.com/script.js?1114172'></script> <script type='text/javascript'>  xProductBrowser("categoriesPerRow=3","views=grid(3,3) list(10) table(20)","categoryView=grid","searchView=list","style=","defaultCategoryId=2484044"); </script> </div> 
+  <div> <!-- #cart -->
+    <script type='text/javascript' src='https://app.ecwid.com/script.js?1114172'></script>
+    <script type='text/javascript'>  xProductBrowser("categoriesPerRow=3","views=grid(3,3) list(10) table(20)","categoryView=grid","searchView=list","style=","defaultCategoryId=2484044"); </script>
+  </div> <!-- /#cart -->
 
   </div><!-- /#index -->
 </div><!-- /#main -->
