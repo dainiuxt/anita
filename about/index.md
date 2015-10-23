@@ -1,17 +1,15 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+title: Kontaktai
+tags: [kontaktai, anita]
+modified: 
 image:
   feature: sample-image-1.jpg
 ---
 
-##Kontaktai
+##Tel. 8 63311005
 
-###Tel. 8 63311005
-
-[eitne@eitne.lt](mailto:eitne@eitne.lt)
+##[eitne@eitne.lt](mailto:eitne@eitne.lt)
 
 {% highlight text %}
 Informacija mokėjimams
