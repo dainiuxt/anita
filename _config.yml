@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Minimal Mistakes
-locale:           en_US
+title:            Anita.lt
+locale:           lt_LT
 url:              //dainiuxt.github.io/anita
 
 
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: 
+  name: Anita.lt
   avatar: 
   bio: 
   disqus-shortname: 
