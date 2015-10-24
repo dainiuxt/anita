@@ -8,7 +8,11 @@
 
 - title: Taisyklės
   url: /taisykles/
+  
+- title: Apie
+  url: /apie/
 
-- title: tinklaraštis
-  url: /posts/
+#- title: Tinklaraštis
+#  url: /posts/
+
 
