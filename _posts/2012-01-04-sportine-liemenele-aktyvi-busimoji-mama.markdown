@@ -34,11 +34,11 @@ Labai atsakingai reikėtų pasirinkti sporto šaką. Sportas galintis sukelti tr
 
 Kadangi nėštumo metu jūsų krūtys auga ir tampa jautresnės, labai svarbu pasirinkti tinkamą liemenėlę. Sportuojant tai ypač svarbu. Liemenėlės iš „Anita active“ linijos yra pritaikomos pagal pasirinktą sporto šaką ir reikalingą krūtinės prilaikymo intensyvumą.
 
- **Sveikatos specialistai rekomenduoja baseiną ir vandens treniruotes **
+ **Sveikatos specialistai rekomenduoja baseiną ir vandens treniruotes**
 
  Judėjimas vandenyje idealiai tinka būsimai mamai. Ne tik todėl, kad traumų praktiškai nebūna, bet ir dėl ko kad kūnas yra savaime gerai veikiamas vandens. Plūduriavimas vandenyje efektyviai sumažina stuburo, raiščių ir sąnarių skausmą. Dėl nulinės gravitacijos - atsipalaiduoja pilvas ir nugara, išnyksta erzinantis skausmas ir kiti nemalonūs simptomai. Be to, sportuojant vandenyje, nėščioji pailsi ir emociškai. Rami mama - ramus kūdikis.
 
- ”**Anita maternity“ elegantiški maudymosi kostiumėliai nėščiosioms **
+ ”**Anita maternity“ elegantiški maudymosi kostiumėliai nėščiosioms**
 
 [![](http://anita.lt/files/2012/01/00771845001315828881.jpg)](http://anita.lt/sportine-liemenele-aktyvi-busimoji-mama/attachment/00771845001315828881/)
 
