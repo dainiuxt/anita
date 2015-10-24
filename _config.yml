@@ -46,7 +46,7 @@ owner:
 # Navigation
 site.data.navigation:
   Anita.lt: '{{ site.url }}'
-  Pristatymas: '/pristatymas'
+  Siuntimas: '/siuntimas'
   Kontaktai: '/kontaktai'
   Taisyklės: '/taisykles'
 
