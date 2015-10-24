@@ -7,10 +7,9 @@ image:
   feature: sample-image-1.jpg
 ---
 
-![](/images/ilona.jpg)
-<!--img src="{{ site.url }}/images/ilona.jpg"-->
+<img src="{{ site.url }}/images/ilona.jpg">
 
-
+<br />
 
 Ilona nuo 2007 metų konsultuoja moteris renkantis apatinį trikotažą:
 
