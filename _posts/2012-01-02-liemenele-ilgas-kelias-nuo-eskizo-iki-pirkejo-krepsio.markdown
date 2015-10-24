@@ -18,11 +18,11 @@ tags:
 - medicina
 ---
 
-[![](http://eitne.lt/wp-content/uploads/2011/11/00929106001300264724.jpg)](http://anita.lt/?attachment_id=13225)
+![](http://eitne.lt/wp-content/uploads/2011/11/00929106001300264724.jpg)
 
 **Liemėnėlė, korsetas, kelnaitės, pilvo juosta** - ir dar daygybė žodžių, kurie apibūdina daiktus reikalingus moterims. Kiekviena mūsų renkasi juos pagal skonį, kišenę, funkcionalumą.  Tikriausiai, kas rytą, atsidariusios komodos stalčių, net nepagalvojame, iš kur atkeliauja liemenėlės. Iki šiol ir man tai atrodė paprastas daiktas, kasdieninis. Nieko sudėtingo. 
 
-Apie senovės laikus, kai liemenėlės ir kiti apatiniai tik buvo išradinėjami, skaitantys anglų kalba, gali pasižiūrėti [čia](http://www.amazing-planet.net/history-of-underwear.php). Galiu tik priminti, kad 1913 Mary Phelps Jacob Niujorke sukūrė liemenėlių pirmtakę, surišusi dvi nosines juosta. Paskui išradimas plito iš lūpų į lūpas ir užkariavo ne tik Ameriką, bet ir visą pasaulį. Ir šis atradimas stipriai pakeitė tiek moterų gyvenimą, tiek supratimą apie madą ir sveikatą.
+Apie senovės laikus, kai liemenėlės ir kiti apatiniai tik buvo išradinėjami, skaitantys anglų kalba, gali [pasižiūrėti čia](http://www.amazing-planet.net/history-of-underwear.php). Galiu tik priminti, kad 1913 Mary Phelps Jacob Niujorke sukūrė liemenėlių pirmtakę, surišusi dvi nosines juosta. Paskui išradimas plito iš lūpų į lūpas ir užkariavo ne tik Ameriką, bet ir visą pasaulį. Ir šis atradimas stipriai pakeitė tiek moterų gyvenimą, tiek supratimą apie madą ir sveikatą.
 
 Nieko nenustebinsiu, pasakydama, kad kuriant šiuolaikines liemenėles, pirmiausia piešiami eskizai, paskui kiekviena detalė apskaičiuojama kompiuteriais ir siuvami bandomieji pavyzdžiai. Paskui matuojama realiems žmonėms, ir vėl ... keliauja perskaičiavimui, kol maždaug per 1,5- 2 metus modelis išgryninamas ir tampa tobulas. Kiekvienai moteriai - jos individualiems poreikiams ir unikalumui. Bandymai vyksta labai ilgai, gaminiai naudojami įvairiose situacijose, skirtingo charakterio ir skirtingo aktyvumo moterų.
 
@@ -41,13 +41,4 @@ Nuo tinkamo liemenėlės pasirinkimo priklauso ne tik patogumas, bet ir fizinė 
 Jeigu kalbėtume tik apie estetinę pusę - gražios krūtinės paslaptis labai paprasta — tai graži, kokybiška ir tinkamai parinkta liemenėlė. Dauguma moterų nė neįtaria, kokius stebuklus gali sukurti liemenėlė. O blogai parinkti apatiniai gali sudarkyti net gražiausio rūbo ir puikios figūros įspūdį. Todėl, net jei manote, kad žinote savo liemenėlės dydį, nepatingėkite pasimatuoti gretimus du. Priklausomai nuo modelio, galite būti labai nustebinta.
 
 Anita gamina sportines liemenėles, kurias dėvės sportininkės Londono olimpinių žaidynių metu.
-
-Smagių minčių!
-
-
-
-
-
-
-
 
