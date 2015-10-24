@@ -15,32 +15,32 @@ Sutartis tarp Jūsų ir mūsų laikoma sudaryta nuo to momento, kai Jūs e-pardu
 
   Kiekviena sutartis, sudaryta tarp mūsų ir Jūsų, yra saugoma e-parduotuvėje.
 
-3. Jūsų teisės
+###3. Jūsų teisės
 
   * Jūs turite teisę pirkti prekes e-parduotuvėje šių taisyklių ir e-parduotuvės nustatyta tvarka.
   * Jūs turite teisę atsisakyti prekių pirkimo – pardavimo sutarties su e-parduotuve, išskyrus atvejus, kai sutartis sudaryta dėl:
     * dalyvavimo žaidimuose ar loterijose;
     * kitais atvejais, kai pirkimo – pardavimo sutarties negalima atsisakyti pagal Lietuvos Respublikos įstatymus.
 
-4. Jūs įsipareigojate:
+###4. Jūs įsipareigojate:
 
   * priimti užsakytas prekes ir už jas sumokėti sutartą kainą.
   * jeigu pasikeičia Jūsų registracijos formoje pateikti duomenys, Jūs privalote nedelsdamas juos atnaujinti.
   * Jūs, naudodamasis e-parduotuve, sutinkate su šiomis pirkimo – pardavimo taisyklėmis ir privalote jų laikytis.
 
-5. Mūsų teisės
+###5. Mūsų teisės
 
   Jei Pirkėjas bando pakenkti e-parduotuvės darbui ar stabiliam veikimui, galime be išankstinio perspėjimo apriboti, sustabdyti jam galimybę naudotis e-parduotuve arba panaikinti Pirkėjo registraciją.
   Mes, susidarius svarbioms aplinkybėms, galime laikinai arba iš viso nutraukti e-parduotuvės veiklą apie tai iš anksto nepranešę Jums.
   Mes galime vienašališkai pakeisti šių taisyklių sąlygas.
 
-6. Mes įsipareigojame
+###6. Mes įsipareigojame
 
   * Sudaryti visas sąlygas Jums tinkamai naudotis e-parduotuvės teikiamomis paslaugomis.
   * Pristatyti Jūsų užsakytas prekes, Jūsų nurodytu adresu ir per sutartą pristatymo laikotarpį.
   * Mes, susidarius svarbioms aplinkybėms, negalėdami pristatyti Jūsų užsakytos prekės, įsipareigojame Jums pasiūlyti analogišką prekę, o Jums atsisakius priimti prekės analogą, grąžinti Jums sumokėtus pinigus.
 
-7. Prekių pristatymas
+###7. Prekių pristatymas
 
   Prekes siunčiame per LPExpress. Pristatymą galite užsisakyti į Jūsų norodytą LPExpress terminalą, arba Jūsų nurodytu adresu. [LPExpress terminalų vietas galite rasti čia](https://www.lpexpress.lt/Savitarnos-terminalai/Vietu-sarasas.html).
 
@@ -50,7 +50,7 @@ Sutartis tarp Jūsų ir mūsų laikoma sudaryta nuo to momento, kai Jūs e-pardu
 
   Dėmesio: prekes gali atsiimti tik užsakymą pateikęs asmuo, arba asmuo, nurodytas užsakymo pateikimo metu. Todėl atsiimant prekes būtina su savimi turėti asmens tapatybę patvirtinantį dokumentą (ID kortelę, pasą ar naujo pavyzdžio vairuotojo pažymėjimą).
 
-8. Daiktų grąžinimas
+###8. Daiktų grąžinimas
 
   Daiktų grąžinimas vyksta vadovaujantis 2001 m. birželio 29 d. Lietuvos Respublikos Ūkio ministro įsakymu Nr. 217 „Dėl daiktų grąžinimo ir keitimo taisyklių patvirtinimo“ ir Lietuvos Respublikos Ūkio ministro įsakymu Nr. 258 patvirtinų „Daiktų pardavimo ir paslaugų teikimo, kai sutartys sudaromos naudojant ryšio priemones, taisyklių“ numatyta tvarka.
 
@@ -62,7 +62,7 @@ Sutartis tarp Jūsų ir mūsų laikoma sudaryta nuo to momento, kai Jūs e-pardu
 
   Kai grąžinama nekokybiška prekė, mes įsipareigojame pasiimti nekokybišką prekę ir ją pakeisti analogiška preke. Tuo atveju, kai mes neturime analogiškos prekės, grąžiname Jums už prekę sumokėtus pinigus.
 
-9. Atsakomybė
+###9. Atsakomybė
 
   Jūs esate visiškai atsakingas už registracijos formoje pateiktų duomenų teisingumą. Jei Jūs nepateikiate tikslių duomenų registracijos formoje, mes neatsakome už dėl to atsiradusius padarinius.
 
@@ -74,13 +74,13 @@ Sutartis tarp Jūsų ir mūsų laikoma sudaryta nuo to momento, kai Jūs e-pardu
 
   Atsiradus žalai, kaltoji šalis atlygina kitai šaliai atsiradusius nuostolius.
 
-10. Informacijos siuntimas
+###10. Informacijos siuntimas
 
   Mes visus pranešimus siunčiame Jūsų registracijos formoje pateiktu elektroninio pašto adresu.
 
   Jūs visus pranešimus ir klausimus siunčiate e-parduotuvės skyriuje “Kontaktai” nurodytu elektroninio pašto adresu.
 
-11. Baigiamosios nuostatos
+###11. Baigiamosios nuostatos
 
   Šioms taisyklėms yra taikoma Lietuvos Respublikos teisė.
 
