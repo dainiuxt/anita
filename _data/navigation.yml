@@ -1,8 +1,14 @@
 # Site navigation links
 
-- title: Kontaktai
-  url: /about/
+- title: Siuntimas
+  url: /siuntimas/
 
-- title: Naudinga informacija
+- title: Kontaktai
+  url: /kontaktai/
+
+- title: Taisyklės
+  url: /taisykles/
+
+- title: tinklaraštis
   url: /posts/
 
