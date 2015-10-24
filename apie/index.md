@@ -9,7 +9,7 @@ image:
 
 <img src="{{ site.url }}/images/ilona.jpg">
 
-
+<p></p>
 Ilona nuo 2007 metų konsultuoja moteris renkantis apatinį trikotažą:
 
   * liemenėles,

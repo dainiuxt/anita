@@ -7,13 +7,11 @@ image:
   feature: sample-image-1.jpg
 ---
 
-1. Bendrosios nuostatos
+###1. Bendrosios nuostatos
+Šios Pirkimo – pardavimo taisyklės (toliau – “Taisyklės”) yra juridiškai privalomas dokumentas, kuris nustato Pirkėjo (toliau – “Jūs”) ir Pardavėjo (toliau – “mes”) tarpusavio teises, pareigas ir atsakomybę Jums įsigyjant prekes elektroninėje parduotuvėje (toliau – “e-parduotuvė”).
 
-  Šios Pirkimo – pardavimo taisyklės (toliau – “Taisyklės”) yra juridiškai privalomas dokumentas, kuris nustato Pirkėjo (toliau – “Jūs”) ir Pardavėjo (toliau – “mes”) tarpusavio teises, pareigas ir atsakomybę Jums įsigyjant prekes elektroninėje parduotuvėje (toliau – “e-parduotuvė”).
-
-2. Pirkimo – pardavimo sutarties sudarymo momentas
-
-  Sutartis tarp Jūsų ir mūsų laikoma sudaryta nuo to momento, kai Jūs e-parduotuvėje suformavę prekių krepšelį, nurodę pristatymo adresą, pasirinkę apmokėjimo būdą ir susipažinę su mūsų taisyklėmis, paspaudžiate mygtuką “Pateikti užsakymą”.
+###2. Pirkimo – pardavimo sutarties sudarymo momentas
+Sutartis tarp Jūsų ir mūsų laikoma sudaryta nuo to momento, kai Jūs e-parduotuvėje suformavę prekių krepšelį, nurodę pristatymo adresą, pasirinkę apmokėjimo būdą ir susipažinę su mūsų taisyklėmis, paspaudžiate mygtuką “Pateikti užsakymą”.
 
   Kiekviena sutartis, sudaryta tarp mūsų ir Jūsų, yra saugoma e-parduotuvėje.
 
