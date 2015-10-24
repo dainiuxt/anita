@@ -7,10 +7,12 @@ image:
   feature: sample-image-1.jpg
 ---
 
-![](/images/ilona.jpg)Ilona nuo 2007 metų konsultuoja moteris renkantis apatinį trikotažą:
-* liemenėles,
-* korsetus po gimdymo bei operacijų,
-* prilaikančius nėščiųjų diržus ir specialias kelnaites.
+<img src="{{ site.url }}/images/ilona.jpg">
+
+Ilona nuo 2007 metų konsultuoja moteris renkantis apatinį trikotažą:
+  * liemenėles,
+  * korsetus po gimdymo bei operacijų,
+  * prilaikančius nėščiųjų diržus ir specialias kelnaites.
 
 Daugiausiai dirbo su besilaukiančiomis bei maitinančiomis mamomis.
 
@@ -20,5 +22,5 @@ Ilona domisi ne tik apatiniu trikotažu, bet ir socialinėmis bei psichologinėm
 
 Individualiai konsultacijai galima registruotis [el. paštu](mailto:eitne@eitne.lt), arba telefonu 8 633 11005, Ilona.
 
-![](/images/ilona-sertifikatas.png)
+<img src="{{ site.url }}/images/ilona-sertifikatas.png.jpg">
 
