@@ -7,7 +7,7 @@ image:
   feature: sample-image-1.jpg
 ---
 
-![](images/ilona.jpg)
+![](/images/ilona.jpg)
 <!--img src="{{ site.url }}/images/ilona.jpg"-->
 
 <p></p>
