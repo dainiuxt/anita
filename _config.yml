@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Anita.lt
+title:            Eitnė.lt internetinė parduotuvė
 locale:           lt_LT
-url:              http://anita.lt
+url:              http://shop.eitne.lt
 
 
 # Jekyll configuration
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Anita.lt
+  name: eitne.lt
   avatar: bio-photo.png
   bio: 
   disqus-shortname: 
