@@ -4,7 +4,6 @@ title:            Eitnė.lt internetinė parduotuvė
 locale:           lt_LT
 url:              http://shop.eitne.lt
 
-
 # Jekyll configuration
 
 permalink:   /:title/
