@@ -7,9 +7,9 @@ image:
   feature: sample-image-1.jpg
 ---
 
-##Tel. 8 63311005
+## Tel. 8 63311005
 
-##[eitne@eitne.lt](mailto:eitne@eitne.lt)
+## [eitne@eitne.lt](mailto:eitne@eitne.lt)
 
 {% highlight text %}
 Informacija mokėjimams
